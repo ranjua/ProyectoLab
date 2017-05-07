@@ -1,0 +1,6 @@
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.dll
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.pdb
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.csprojResolveAssemblyReference.cache
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.dll
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.pdb
