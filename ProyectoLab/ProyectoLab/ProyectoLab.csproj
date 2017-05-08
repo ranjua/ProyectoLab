@@ -66,7 +66,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Img\paciente.png" />
+    <Content Include="Login.aspx" />
     <Content Include="packages.config" />
+    <Content Include="Paginas\Enfermero\ConsultaDatosPaciente.aspx" />
+    <Content Include="Paginas\Enfermero\HistorialPaciente.aspx" />
+    <Content Include="Paginas\Paciente\SolicitarCita.aspx" />
+    <Content Include="Paginas\Paciente\VisualizarCita.aspx" />
     <Content Include="Principal.Master" />
     <Content Include="Paginas\Enfermero\enfermero.Master" />
     <Content Include="Paginas\Paciente\paciente.Master" />
@@ -81,6 +87,21 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\ConsultarDatosPaciente.cs" />
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Enfermero\ConsultaDatosPaciente.aspx.cs">
+      <DependentUpon>ConsultaDatosPaciente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Enfermero\ConsultaDatosPaciente.aspx.designer.cs">
+      <DependentUpon>ConsultaDatosPaciente.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Paginas\Enfermero\enfermero.Master.cs">
       <DependentUpon>enfermero.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -88,12 +109,33 @@
     <Compile Include="Paginas\Enfermero\enfermero.Master.designer.cs">
       <DependentUpon>enfermero.Master</DependentUpon>
     </Compile>
+    <Compile Include="Paginas\Enfermero\HistorialPaciente.aspx.cs">
+      <DependentUpon>HistorialPaciente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Enfermero\HistorialPaciente.aspx.designer.cs">
+      <DependentUpon>HistorialPaciente.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Paginas\Paciente\paciente.Master.cs">
       <DependentUpon>paciente.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Paginas\Paciente\paciente.Master.designer.cs">
       <DependentUpon>paciente.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Paciente\SolicitarCita.aspx.cs">
+      <DependentUpon>SolicitarCita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Paciente\SolicitarCita.aspx.designer.cs">
+      <DependentUpon>SolicitarCita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Paciente\VisualizarCita.aspx.cs">
+      <DependentUpon>VisualizarCita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Paciente\VisualizarCita.aspx.designer.cs">
+      <DependentUpon>VisualizarCita.aspx</DependentUpon>
     </Compile>
     <Compile Include="Principal.Master.cs">
       <DependentUpon>Principal.Master</DependentUpon>
@@ -103,6 +145,11 @@
       <DependentUpon>Principal.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicios\BDService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Css\" />
+    <Folder Include="Js\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
