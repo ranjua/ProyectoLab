@@ -148,7 +148,6 @@ namespace ProyectoLab.Servicios
                 }
                 catch (Exception ex)
                 {
-                    HttpContext.Current.Session["Error"] = ex.Message;
                 }
             }
         }

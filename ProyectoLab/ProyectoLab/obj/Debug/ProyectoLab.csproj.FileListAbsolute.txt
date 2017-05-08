@@ -18,3 +18,5 @@ R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\Proyec
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\ProyectoLab\obj\Debug\ProyectoLab.csprojResolveAssemblyReference.cache
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\ProyectoLab\obj\Debug\ProyectoLab.dll
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\ProyectoLab\obj\Debug\ProyectoLab.pdb
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\ProyectoLab\bin\MSCaptcha.dll
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\ProyectoLab\bin\MSCaptcha.xml

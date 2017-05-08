@@ -48,6 +48,9 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MSCaptcha">
+      <HintPath>C:\Users\randyfernando\Downloads\CaptchaAsp.net\Bin\MSCaptcha.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -88,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\ConsultarDatosPaciente.cs" />
+    <Compile Include="Clases\SolicitarCita.cs" />
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
