@@ -13,9 +13,9 @@ namespace ProyectoLab
         {
             if(!IsPostBack)
             {
-                Session["Cod_Usuario"] = 1;
-                Session["Cod_Rol"] = 3;
-                Response.Redirect("/Paginas/Enfermero/ConsultaDatosPaciente.aspx");
+                Session["Cod_Usuario"] = 2222;
+                Session["Cod_Rol"] = 2;
+                Response.Redirect("/Paginas/Medico/VerCitas.aspx");
             }
         }
     }
