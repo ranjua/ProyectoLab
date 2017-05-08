@@ -24,5 +24,15 @@ namespace ProyectoLab.Clases
             return false; ;
 
         }
+
+        public DataTable getCita(string dpi)
+        {
+            DataTable tabla = bdService.FillTableData("select u.nombre as Doctor, c.sala, c.Fecha, c.Hora, c.Observaciones " +
+                    " from dbo.Cita c, dbo.Agenda_Cita ac, dbo.Usuario u where " +
+                    " ac.Dpi_Medico = u.Dpi and ac.cod_Cita = c.cod_Cita and " +
+                    " ac.Dpi_Paciente = " + dpi);
+            return tabla;
+        }
+
     }
 }

@@ -18,7 +18,10 @@ namespace ProyectoLab
                 //Response.Redirect("/Paginas/Enfermero/ConsultaDatosPaciente.aspx");
                 Session["Cod_Usuario"] = 30001;
                 Session["Cod_Rol"] = 4;
-                Response.Redirect("/Paginas/Paciente/SolicitarCita.aspx");
+                //Response.Redirect("/Paginas/Paciente/SolicitarCita.aspx");
+                Session["Cod_Usuario"] = 30001;
+                Session["Cod_Rol"] = 4;
+                Response.Redirect("/Paginas/Paciente/VisualizarCita.aspx");
             }
         }
     }
