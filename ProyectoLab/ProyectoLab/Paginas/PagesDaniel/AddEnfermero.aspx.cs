@@ -16,8 +16,8 @@ namespace ProyectoLab.Paginas.PagesDaniel
 
         protected void btnAgregarEnfermero_Click(object sender, EventArgs e)
         {
-            String SqlConection = "";
-            String Comando = "INSERT Usuario (DPI,Nombre,Contraseña,Fecha_Nacimiento,Telefono,Email,cod_Tipo) VALUES (" + txtDpi.Text + ",'" + txtNombre.Text + "','" + txtContrasenia.Text + "','" + txtNacimiento.Text + "','" + txtTelefono.Text + "','" + txtEmail.Text + "',3)";
+            String SqlConection = Conexio.cadenaConexion;
+            String Comando = "INSERT Usuario (DPI,Nombre,Contrasenia,Fecha_Nacimiento,Telefono,Email,cod_Tipo) VALUES (" + txtDpi.Text + ",'" + txtNombre.Text + "','" + txtContrasenia.Text + "','" + txtNacimiento.Text + "','" + txtTelefono.Text + "','" + txtEmail.Text + "',3)";
             System.Data.SqlClient.SqlConnection sqlConnection1 =
                 new System.Data.SqlClient.SqlConnection(SqlConection);
 

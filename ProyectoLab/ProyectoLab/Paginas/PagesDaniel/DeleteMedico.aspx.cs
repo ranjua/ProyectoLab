@@ -16,7 +16,7 @@ namespace ProyectoLab.Paginas.PagesDaniel
 
         protected void btnDeleteMedico_Click(object sender, EventArgs e)
         {
-            String SqlConection = "";
+            String SqlConection = Conexio.cadenaConexion;
             String Comando = "Delete From Usuario WHERE DPI = " + txtDpi.Text + ";";
             System.Data.SqlClient.SqlConnection sqlConnection1 =
                 new System.Data.SqlClient.SqlConnection(SqlConection);

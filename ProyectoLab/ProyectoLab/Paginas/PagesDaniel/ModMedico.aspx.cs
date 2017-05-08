@@ -16,8 +16,8 @@ namespace ProyectoLab.Paginas.PagesDaniel
 
         protected void btnModMedico_Click(object sender, EventArgs e)
         {
-            String SqlConection = "";
-            String Comando = "UPDATE Usuario SET Nombre = '" + txtNombre.Text + "',Contraseña ='" + txtContrasenia.Text + "' ,Fecha_Nacimiento ='" + txtNacimiento.Text + "' ,Telefono = '" + txtTelefono.Text + "',Email = '" + txtEmail.Text + "' WHERE DPI = " + txtDpi.Text + ";";
+            String SqlConection = Conexio.cadenaConexion;
+            String Comando = "UPDATE Usuario SET Nombre = '" + txtNombre.Text + "',Contrasenia ='" + txtContrasenia.Text + "' ,Fecha_Nacimiento ='" + txtNacimiento.Text + "' ,Telefono = '" + txtTelefono.Text + "',Email = '" + txtEmail.Text + "' WHERE DPI = " + txtDpi.Text + ";";
             System.Data.SqlClient.SqlConnection sqlConnection1 =
                 new System.Data.SqlClient.SqlConnection(SqlConection);
 

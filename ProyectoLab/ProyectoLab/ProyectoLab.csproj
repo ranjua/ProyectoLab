@@ -67,6 +67,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Paginas\PagesDaniel\AddCita.aspx" />
+    <Content Include="Paginas\PagesDaniel\AddEnfermero.aspx" />
+    <Content Include="Paginas\PagesDaniel\AddMedico.aspx" />
+    <Content Include="Paginas\PagesDaniel\DeleteEnfermero.aspx" />
+    <Content Include="Paginas\PagesDaniel\DeleteMedico.aspx" />
+    <Content Include="Paginas\PagesDaniel\MainAdmin.aspx" />
+    <Content Include="Paginas\PagesDaniel\ModEnfermero.aspx" />
+    <Content Include="Paginas\PagesDaniel\ModMedico.aspx" />
     <Content Include="Principal.Master" />
     <Content Include="Paginas\Enfermero\enfermero.Master" />
     <Content Include="Paginas\Paciente\paciente.Master" />
@@ -94,6 +102,63 @@
     </Compile>
     <Compile Include="Paginas\Paciente\paciente.Master.designer.cs">
       <DependentUpon>paciente.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\AddCita.aspx.cs">
+      <DependentUpon>AddCita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\AddCita.aspx.designer.cs">
+      <DependentUpon>AddCita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\AddEnfermero.aspx.cs">
+      <DependentUpon>AddEnfermero.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\AddEnfermero.aspx.designer.cs">
+      <DependentUpon>AddEnfermero.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\AddMedico.aspx.cs">
+      <DependentUpon>AddMedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\AddMedico.aspx.designer.cs">
+      <DependentUpon>AddMedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\Conexio.cs" />
+    <Compile Include="Paginas\PagesDaniel\DeleteEnfermero.aspx.cs">
+      <DependentUpon>DeleteEnfermero.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\DeleteEnfermero.aspx.designer.cs">
+      <DependentUpon>DeleteEnfermero.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\DeleteMedico.aspx.cs">
+      <DependentUpon>DeleteMedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\DeleteMedico.aspx.designer.cs">
+      <DependentUpon>DeleteMedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\MainAdmin.aspx.cs">
+      <DependentUpon>MainAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\MainAdmin.aspx.designer.cs">
+      <DependentUpon>MainAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\ModEnfermero.aspx.cs">
+      <DependentUpon>ModEnfermero.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\ModEnfermero.aspx.designer.cs">
+      <DependentUpon>ModEnfermero.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\ModMedico.aspx.cs">
+      <DependentUpon>ModMedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\PagesDaniel\ModMedico.aspx.designer.cs">
+      <DependentUpon>ModMedico.aspx</DependentUpon>
     </Compile>
     <Compile Include="Principal.Master.cs">
       <DependentUpon>Principal.Master</DependentUpon>
