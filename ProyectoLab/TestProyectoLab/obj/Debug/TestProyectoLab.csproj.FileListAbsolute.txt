@@ -19,3 +19,5 @@ R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\Proyec
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.dll
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.pdb
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.dll.config
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\MSCaptcha.dll
+R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\MSCaptcha.xml
