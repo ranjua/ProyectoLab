@@ -46,7 +46,8 @@
                     <asp:TextBox ID="txtEmail" runat="server"></asp:TextBox></th>
             </tr>
             <tr>
-                <th></th>
+                <th>
+                    <asp:Button ID="btnRegresar" runat="server" Text="Regresar" OnClick="btnRegresar_Click" /></th>
                 <th>
                     <asp:Button ID="btnAgregarEnfermero" runat="server" Text="Agregar" OnClick="btnAgregarEnfermero_Click" /></th>
                     

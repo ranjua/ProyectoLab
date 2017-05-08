@@ -18,7 +18,8 @@
                     <asp:TextBox ID="txtDpi" runat="server"></asp:TextBox></th>
             </tr>
             <tr>
-                <th></th>
+                <th>
+                    <asp:Button ID="btnRegresar" runat="server" Text="Regresar" OnClick="btnRegresar_Click" /></th>
                 <th>
                     <asp:Button ID="btnDeleteMedico" runat="server" Text="Eliminar" OnClick="btnDeleteMedico_Click" /></th>
                     

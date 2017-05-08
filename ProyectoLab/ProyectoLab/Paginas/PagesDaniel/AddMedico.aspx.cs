@@ -31,6 +31,11 @@ namespace ProyectoLab.Paginas.PagesDaniel
             sqlConnection1.Close();
         }
 
+        protected void btnRegresar_Click(object sender, EventArgs e)
+        {
+            Server.Transfer("MainAdmin.aspx", true);
+        }
+
 
     }
 }
