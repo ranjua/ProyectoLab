@@ -69,6 +69,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Css\login.css" />
     <Content Include="Img\Caledario.jpg" />
     <Content Include="Img\paciente.png" />
     <Content Include="Login.aspx" />
@@ -153,7 +154,6 @@
     <Compile Include="Servicios\BDService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Css\" />
     <Folder Include="Js\" />
   </ItemGroup>
   <PropertyGroup>
