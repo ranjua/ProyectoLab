@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Img\Caledario.jpg" />
     <Content Include="Img\paciente.png" />
     <Content Include="Login.aspx" />
     <Content Include="packages.config" />
