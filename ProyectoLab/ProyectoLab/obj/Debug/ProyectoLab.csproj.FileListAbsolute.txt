@@ -35,6 +35,6 @@ C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\
 C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\ProyectoLab\bin\ProyectoLab.pdb
 C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\ProyectoLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\ProyectoLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\ProyectoLab\obj\Debug\ProyectoLab.csprojResolveAssemblyReference.cache
 C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\ProyectoLab\obj\Debug\ProyectoLab.dll
 C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\ProyectoLab\obj\Debug\ProyectoLab.pdb
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\ProyectoLab\obj\Debug\ProyectoLab.csprojResolveAssemblyReference.cache

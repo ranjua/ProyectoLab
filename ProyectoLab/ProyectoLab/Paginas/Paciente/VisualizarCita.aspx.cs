@@ -12,6 +12,7 @@ namespace ProyectoLab.Paginas.Paciente
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            /*
             if (Session["Cod_Usuario"] != null && Session["Cod_Usuario"].ToString() != "" &&
                 Session["Cod_Rol"].ToString() == "4")
             {
@@ -34,6 +35,8 @@ namespace ProyectoLab.Paginas.Paciente
             {
                 Response.Redirect("~/Login.aspx");
             }
+            */
         }
+             
     }
 }

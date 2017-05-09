@@ -60,7 +60,7 @@ namespace ProyectoLab.Paginas.Medico
                 colObser.Text = observaciones;
                 datoCita.Cells.Add(colObser);
                 TableCell colVer= new TableCell();
-                colVer.Text = "<a href=\"ModificarCita.aspx?" + cod_Cita + "\"> Modificar </a>";
+                colVer.Text = "<a href=\"ModificarCita.aspx?val=" + cod_Cita + "\"> Modificar </a>";
                 datoCita.Cells.Add(colVer);
                 tablaCita.Rows.Add(datoCita);
             }

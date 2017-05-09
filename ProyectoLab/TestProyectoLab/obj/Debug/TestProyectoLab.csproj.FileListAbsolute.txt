@@ -19,5 +19,23 @@ R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\Proyec
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.dll
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.pdb
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.dll.config
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\csc.exe
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\vbc.exe
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.dll.config
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.pdb
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.pdb
 C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.csprojResolveAssemblyReference.cache
 C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.dll
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.pdb

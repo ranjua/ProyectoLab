@@ -18,5 +18,22 @@ namespace ProyectoLab.Clases
             DataTable tabla = servicioBD.FillTableData(query);
             return tabla;
         }
+
+        public DataTable verCita(String cod_Cita)
+        {
+
+            String query = "SELECT *  FROM dbo.Cita C Where C.cod_Cita = " + cod_Cita + "";
+            DataTable tabla = servicioBD.FillTableData(query);
+            return tabla;
+        }
+
+        public void actualizarCita(String cod_Cita, String Fecha, String Hora,String sala, String Observaciones) 
+        {
+            String query = "Update dbo.Cita  Set Fecha = '"+Fecha+"', Sala = '"+ sala+"', Hora = '"+Hora+"' , Observaciones = '"+ Observaciones+"' Where cod_Cita = "+cod_Cita;
+            DataTable tabla = servicioBD.FillTableData(query);
+            
+        }
+
+
     }
 }

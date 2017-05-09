@@ -27,6 +27,7 @@ namespace ProyectoLab.Paginas.Paciente
 
         protected void btn_Solicitar_Click(object sender, EventArgs e)
         {
+            /*
             Captcha1.ValidateCaptcha(txt_Captcha.Value.Trim());
             if (Captcha1.UserValidated)
             {
@@ -39,7 +40,7 @@ namespace ProyectoLab.Paginas.Paciente
             {
                 lblMessage.ForeColor = System.Drawing.Color.Red;
                 lblMessage.Text = "Captcha Invalido";
-            }
+            }*/
         }
     }
 }
