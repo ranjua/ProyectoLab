@@ -19,3 +19,5 @@ R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\Proyec
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.dll
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\ProyectoLab.pdb
 R:\Randy\Tareas\Sistemas\Analisis y Diseño\AyD1\Proyecto Lab\ProyectoLab\ProyectoLab\TestProyectoLab\bin\Debug\TestProyectoLab.dll.config
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.csprojResolveAssemblyReference.cache
+C:\Users\prueba\Documents\USAC\1S_2017\AYD1\AyDProyecto\ProyectoLab\ProyectoLab\TestProyectoLab\obj\Debug\TestProyectoLab.dll

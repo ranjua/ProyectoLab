@@ -71,11 +71,14 @@
     <Content Include="packages.config" />
     <Content Include="Paginas\Enfermero\ConsultaDatosPaciente.aspx" />
     <Content Include="Paginas\Enfermero\HistorialPaciente.aspx" />
+    <Content Include="Paginas\Medico\ModificarCita.aspx" />
+    <Content Include="Paginas\Medico\VerCitas.aspx" />
     <Content Include="Paginas\Paciente\SolicitarCita.aspx" />
     <Content Include="Paginas\Paciente\VisualizarCita.aspx" />
     <Content Include="Principal.Master" />
     <Content Include="Paginas\Enfermero\enfermero.Master" />
     <Content Include="Paginas\Paciente\paciente.Master" />
+    <Content Include="Paginas\Medico\medico.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -88,6 +91,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\ConsultarDatosPaciente.cs" />
+    <Compile Include="Clases\Cita.cs" />
+    <Compile Include="Clases\Medico.cs" />
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -115,6 +120,27 @@
     </Compile>
     <Compile Include="Paginas\Enfermero\HistorialPaciente.aspx.designer.cs">
       <DependentUpon>HistorialPaciente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Medico\medico.Master.cs">
+      <DependentUpon>medico.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Medico\medico.Master.designer.cs">
+      <DependentUpon>medico.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Medico\ModificarCita.aspx.cs">
+      <DependentUpon>ModificarCita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Medico\ModificarCita.aspx.designer.cs">
+      <DependentUpon>ModificarCita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\Medico\VerCitas.aspx.cs">
+      <DependentUpon>VerCitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\Medico\VerCitas.aspx.designer.cs">
+      <DependentUpon>VerCitas.aspx</DependentUpon>
     </Compile>
     <Compile Include="Paginas\Paciente\paciente.Master.cs">
       <DependentUpon>paciente.Master</DependentUpon>
